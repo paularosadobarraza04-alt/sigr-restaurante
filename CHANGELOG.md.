@@ -1,0 +1,12 @@
+# CHANGELOG — Sistema Integral de Gestión de Restaurante
+
+## Versión inicial: v0.1.0
+
+- Se creó el repositorio del proyecto en GitHub.
+- Se agregó la documentación inicial del sistema.
+- Se definieron los módulos que formarán parte del proyecto.
+- Se estableció una base para organizar los cambios futuros.
+
+## Estado actual
+
+El proyecto se encuentra en su etapa inicial de organización y documentación. Los módulos funcionales deberán desarrollarse y probarse antes de aprobar la línea base estable.
